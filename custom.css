@@ -1,0 +1,16 @@
+.short-description {
+  font-size: 90%;
+}
+
+.puppy-photo-container {
+  text-align: center;
+}
+
+.puppy-photo-container img {
+  border: 1px black solid;
+  padding: 3px;
+}
+
+.button-bar {
+  text-align: center;
+}
